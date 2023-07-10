@@ -1,1 +1,6 @@
-const { Circle, Triangle, Square } = require('.shapes');
+const inquirer =
+const fs =
+const question =
+const file = 
+const genShape =
+
