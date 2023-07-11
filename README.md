@@ -28,11 +28,13 @@ Locate the cloned directory with your terminal, you can start the application
 by typing $node index.js in your terminal. you will be asked a series of questions
 gathering the information needed to generate your desired logo.svg
 
+Video URL -
+
 ##Screenshot
 
 <img
-  src="images\READMEIMG.png"
-  alt="README"
+  src="images\SVGGEN.png"
+  alt="SVG-GEN"
   style="display: left; margin: 0 auto; max-width: 500px">
 
 ## Contributing
@@ -41,7 +43,7 @@ Email me for contributions
 
 ## Tests
 
-n/a
+* npm test
 
 
 ## License
@@ -59,3 +61,7 @@ Sutt.Chris@outlook.com
 * https://www.codecademy.com/forum_questions/4f8f138b85aff00003015792
 * https://www.w3resource.com/javascript-exercises/javascript-object-exercise-9.php
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super
+* CSS Color Names
+// Compiled by @bobspace.
+// https://gist.github.com/bobspace/2712980
+// The full list can be found here: https://www.w3schools.com/cssref/css_colors.asp
