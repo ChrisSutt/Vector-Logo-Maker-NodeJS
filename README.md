@@ -28,12 +28,12 @@ Locate the cloned directory with your terminal, you can start the application
 by typing $node index.js in your terminal. you will be asked a series of questions
 gathering the information needed to generate your desired logo.svg
 
-Video URL -
+[Watch the video](https://clipchamp.com/watch/h5O1qlaWiJ4)
 
 ##Screenshot
 
 <img
-  src="images\SVGGEN.png"
+  src="assets\SVGGEN.png"
   alt="SVG-GEN"
   style="display: left; margin: 0 auto; max-width: 500px">
 
